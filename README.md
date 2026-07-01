@@ -4,8 +4,7 @@
 
 - 🤖 AI & ML Enthusiast from India 🇮🇳  
 - 🔥 Working on Deep Learning & Computer Vision  
-- 📚 Learning ML + Web Development  
-- ✉️ Contact me : use my provided links
+- 📚 Learning Ai/ML + Web Development  
 
 ⭐ Check out my projects & feel free to star the repos!
 
