@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hafees Muhammed</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Future AI Engineer | India 🇮🇳</h3>
+<h3 align="center">AI & Machine Learning Enthusiast | Future AI Engineer | India</h3>
 
 
-- 🤖 AI & ML Enthusiast from India 🇮🇳  
+- 🤖 AI & ML Enthusiast from India,Kerala
 - 🔥 Working on Deep Learning & Computer Vision  
 - 📚 Learning Ai/ML + Web Development  
 
