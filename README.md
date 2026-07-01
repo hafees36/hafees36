@@ -2,7 +2,7 @@
 <h3 align="center">AI & Machine Learning Enthusiast | Future AI Engineer | India</h3>
 
 
-- 🤖 AI & ML Enthusiast from India,Kerala
+- 🤖 AI & ML Enthusiast from Kerala,India
 - 🔥 Working on Deep Learning & Computer Vision  
 - 📚 Learning Ai/ML + Web Development  
 
